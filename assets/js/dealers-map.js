@@ -68,7 +68,7 @@
         zoom: 6,
         minZoom: 2,
         maxZoom: 20,
-        center: { lat: 50.85, lng: 4.35 },
+        center: { lat: 28.5415307, lng: 77.3992465 },
         gestureHandling: "cooperative",
         streetViewControl: false,
         clickableIcons: false,
